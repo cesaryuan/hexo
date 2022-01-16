@@ -77,4 +77,4 @@ namespace HandyControl.Interactivity
 ```
 
 
-![哈哈](image/image.png)
+![哈哈](/images/image.png)
