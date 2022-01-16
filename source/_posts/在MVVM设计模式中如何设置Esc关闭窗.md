@@ -1,13 +1,15 @@
 ---
 title: 在MVVM设计模式中如何设置Esc关闭窗
 date: 2022-01-16 21:21:05
-tags:
+tags: ['C#', 'WPF', 'MVVM']
+categories: 
+  - ['编程']
 ---
 ## 背景
 
 想要设置窗口按Esc关闭，在普通的设计模式中实现非常简单，如下所示
 
-```C#
+```CSharp
 public MainWindow()
 {
     InitializeComponent();
