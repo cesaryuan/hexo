@@ -13,10 +13,10 @@ tags: ['Quicker']
 ### 1. 修改 Hosts 文件  
 
 1. 向 C:\Windows\System32\drivers\etc\hosts 中添加下面一行记录  
-	127.65.43.21 [cc.getquicker.cn](http://cc.getquicker.cn)  
+	`127.65.43.21 cc.getquicker.cn`
 2. 如果您使用 Clash，还需要将 [cc.getquicker.cn](http://cc.getquicker.cn) 添加到 bypass 中  
-	![](images/001 image.png)
-	![](images/002 image_1.png)
+![](images/001 image.png)
+![](images/002 image_1.png)
 
 ### 2. 添加 端口IP 重定向  
 
